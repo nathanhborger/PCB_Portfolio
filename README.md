@@ -1,11 +1,6 @@
 ### Technologies
 
-![Python]()![Uploading KiCadBadge.svg…]()
-
-![Python](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+![KiCadBadge](https://github.com/nathanhborger/PCB_Portfolio/assets/75147239/701b9e20-7dcd-45dc-97f6-5badd90b4ae0)
+![EagleBadge](https://github.com/nathanhborger/PCB_Portfolio/assets/75147239/09dd83e0-5e31-4a0b-9758-8d0dff992af9)
+![Fusion360](https://github.com/nathanhborger/PCB_Portfolio/assets/75147239/e7324af9-1177-46c3-a05c-bdde1d0f4bd6)
+![KeyshotBadge](https://github.com/nathanhborger/PCB_Portfolio/assets/75147239/77a7b579-217f-430e-9ca4-8b2172e381cd)
