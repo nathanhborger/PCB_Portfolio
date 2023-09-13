@@ -1,6 +1,5 @@
 ### Technologies
 
-
 ![KiCADBadge](https://github.com/nathanhborger/PCB_Portfolio/assets/75147239/ebc853b9-5f93-4297-8019-5d610981e74f)
 ![EagleBadge](https://github.com/nathanhborger/PCB_Portfolio/assets/75147239/09dd83e0-5e31-4a0b-9758-8d0dff992af9)
 ![Fusion360](https://github.com/nathanhborger/PCB_Portfolio/assets/75147239/e7324af9-1177-46c3-a05c-bdde1d0f4bd6)
