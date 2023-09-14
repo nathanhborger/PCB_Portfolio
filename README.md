@@ -6,5 +6,5 @@
 ![KeyshotBadge](https://github.com/nathanhborger/PCB_Portfolio/assets/75147239/77a7b579-217f-430e-9ca4-8b2172e381cd)
 
 ![RP2040PCB_Banner_PLain](https://github.com/nathanhborger/PCB_Portfolio/assets/75147239/0e204125-1a3e-49ae-a7d1-b96b15ef033d)
-[![CalcPCB_Banner_PLain](https://github.com/nathanhborger/PCB_Portfolio/assets/75147239/175b34aa-716b-4364-9b54-2f79a440da4f)](https://github.com/EE403-CapStone/Design)
+[![CalcPCB_Banner_PLain](https://github.com/nathanhborger/PCB_Portfolio/assets/75147239/175b34aa-716b-4364-9b54-2f79a440da4f)]([https://github.com/EE403-CapStone/Design](https://talk.jekyllrb.com/t/how-to-add-a-image-with-links-in-markdown/5915/2)https://talk.jekyllrb.com/t/how-to-add-a-image-with-links-in-markdown/5915/2)
 
