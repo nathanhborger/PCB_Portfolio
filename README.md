@@ -6,7 +6,7 @@
 ![KeyshotBadge](https://github.com/nathanhborger/PCB_Portfolio/assets/75147239/77a7b579-217f-430e-9ca4-8b2172e381cd)
 
 [![CalcPCB](https://i.imgur.com/YdJRJAA.png)](https://github.com/EE403-CapStone/Design)
-![RP2040PCB_Banner_PLain](https://i.imgur.com/3gm3rCr.png)
+[![RP2040PCB_Banner_PLain](https://i.imgur.com/3gm3rCr.png)](https://github.com/nathanhborger/RP2040_Chip)
 [![Microwave Leakage Detector](https://i.imgur.com/MBN4GuW.png)](https://github.com/nathanhborger/Microwave_Leakage_Detector)
 
 
