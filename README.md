@@ -7,7 +7,7 @@
 
 [![CalcPCB](https://i.imgur.com/YdJRJAA.png)](https://github.com/EE403-CapStone/Design)
 ![RP2040PCB_Banner_PLain](https://i.imgur.com/3gm3rCr.png)
-[![Microwave Leakage Detector](https://i.imgur.com/sxK4R7k.png)](https://github.com/nathanhborger/Microwave_Leakage_Detector)
+[![Microwave Leakage Detector](https://i.imgur.com/o8TvCJ9.png)](https://github.com/nathanhborger/Microwave_Leakage_Detector)
 
 
 
