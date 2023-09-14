@@ -7,4 +7,4 @@
 
 ![RP2040PCB_Banner_PLain](https://github.com/nathanhborger/PCB_Portfolio/assets/75147239/0e204125-1a3e-49ae-a7d1-b96b15ef033d)
 [![CalcPCB_Banner_PLain](https://github.com/nathanhborger/PCB_Portfolio/assets/75147239/175b34aa-716b-4364-9b54-2f79a440da4f)](http://google.com.au/)
-[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
+[![Foo]([http://www.google.com.au/images/nav_logo7.png](https://github.com/nathanhborger/PCB_Portfolio/assets/75147239/175b34aa-716b-4364-9b54-2f79a440da4f)https://github.com/nathanhborger/PCB_Portfolio/assets/75147239/175b34aa-716b-4364-9b54-2f79a440da4f)](http://google.com.au/)
