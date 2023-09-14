@@ -11,5 +11,5 @@
 
 
 ### Contact
-Feel free to reach me at my email: nathanhborger@gmail.com
+Email: nathanhborger@gmail.com
 
